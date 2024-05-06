@@ -1,2 +1,2 @@
 # portfolio-site
-A simple portfolio website built with Django
+A simple portfolio website built with HTML & CSS
